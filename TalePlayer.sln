@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalePlayer", "TalePlayer\TalePlayer.csproj", "{941F373A-BF60-4AB0-9D6F-70320A890969}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupTP", "SetupTP\SetupTP.vdproj", "{D44412C5-8CA2-4F50-B96F-40B82BE21F30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{941F373A-BF60-4AB0-9D6F-70320A890969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941F373A-BF60-4AB0-9D6F-70320A890969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941F373A-BF60-4AB0-9D6F-70320A890969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941F373A-BF60-4AB0-9D6F-70320A890969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D44412C5-8CA2-4F50-B96F-40B82BE21F30}.Debug|Any CPU.ActiveCfg = Debug
+		{D44412C5-8CA2-4F50-B96F-40B82BE21F30}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+	EndGlobalSection
+EndGlobal
