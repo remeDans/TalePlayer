@@ -3,7 +3,7 @@
 Esta applicación ha formado parte de mi TFG (Trabajo Fin de Grado).
 Esta aplicación es un reproductor para los cuentos creados con la aplicación TaleEditor. Esta aplicación permite a personas con discapacidad la interacción con el cuento, tanto en la reproducción como en la navegación.
   
-Para la creación de esta aplicación he utilizado las siguientes tecnologías:
+Para la creación de esta aplicación se han utilizado las siguientes tecnologías:
 - Proyectos WPF (Windows Presentation Fundation)
 - Lenguajes XML, XAML, C#, SQL
 - Manipulación de ficheros ZIP
