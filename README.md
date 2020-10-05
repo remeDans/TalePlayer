@@ -13,3 +13,5 @@ Para la creación de esta aplicación se han utilizado las siguientes tecnologí
 - Sintetizado de voz con Microsoft Speech
 - Visual Studio 2015 y 2017
 - Repositorio SVN (Visual SVN y Tortoise SVN)
+
+Para descargar la aplicación entre en la siguiente dirección https://taleeditor.wordpress.com
